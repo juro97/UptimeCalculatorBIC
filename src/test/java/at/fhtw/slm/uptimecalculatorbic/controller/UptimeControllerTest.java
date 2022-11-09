@@ -16,6 +16,7 @@ class UptimeControllerTest {
 
         //A - Assert - Vergleichen ob das Ergebnis der Erwartung entspricht
         assertEquals(0.0, result);
+
     }
 
     @Test
